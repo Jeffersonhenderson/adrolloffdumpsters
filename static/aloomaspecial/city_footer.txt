@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is the most common dumpster size for a residential project?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For many home projects like decluttering or small renovations, the 10 yard and 15 yard dumpsters are the most popular choices. For larger projects like a kitchen remodel or roofing, the 20 yard roll off dumpster is often the best fit.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How does your pricing work? Is it a flat rate?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our roll off dumpster rental prices are typically quoted with a flat rate that includes delivery, a set rental period (e.g., 7 days), pickup, and disposal up to a specific weight allowance. We provide clear, all-inclusive quotes so there are no surprises.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need to get a permit for my dumpster rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If the roll off dumpster is placed entirely on your private property, like your driveway, a permit is usually not required. However, if any part of it needs to be on a public street or sidewalk, you will likely need a permit from your local municipality.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What items are you not allowed to take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For safety and environmental reasons, we cannot accept hazardous materials. This includes items like chemicals, paint, oils, asbestos, tires, and flammable liquids. We will provide a complete list when you book your rental.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much space do I need to clear for the dumpster delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The delivery truck requires a clear, straight path to the drop-off location. You will need a space that is about 10-12 feet wide and has at least 25 feet of vertical clearance, free from overhanging wires or tree branches.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
